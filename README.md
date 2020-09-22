@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Kevin Han. I'm a front-end developer and website designer.
 
 <!--
 **kevinydhan/kevinydhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
